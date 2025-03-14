@@ -2,7 +2,7 @@
 
 This repository contains the code used for the following publication:
 ```bash
-  Jia, T., Peng, Z., Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024). Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method. Science of The Total Environment, 175813. doi: 10.1016/j.scitotenv.2024.175813.
+  Jia, T., Peng, Z., Yu, J., Piaggio, A. L., Zhang, S., & de Kreuk, M. K. (2024). Detecting the interaction between microparticles and biomass in biological wastewater treatment process with Deep Learning method. Science of The Total Environment, 175813. doi: 10.1016/j.scitotenv.2024.175813
 ```
 
 The aim of this code is to use deep learning models to detect the interaction between microparticles and biomass in biological wastewater treatment process.
